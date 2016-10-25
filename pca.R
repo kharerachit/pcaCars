@@ -9,4 +9,4 @@ names(pcaCars)
 summary(pcaCars)
 
 # scree plot
-plot(pcaCars, type = "l")
+plot(pcaCars)
